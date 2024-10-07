@@ -14,7 +14,7 @@ The Triage and Threat Response Lab project aimed to monitor, investigate, and re
 
 ### Task 1: Responsabilities and Technical Skills
 
-##### Responsabilities
+#### Responsabilities
 - Monitoring security event logs and alerts using SIEM and EDR tools.
 - Investigating suspicious activity and conducting basic forensics analysis.
 - Configuring and managing Intrusion Detection Systems (IDS) and signature development.
@@ -31,7 +31,7 @@ The Triage and Threat Response Lab project aimed to monitor, investigate, and re
 
 ### Task 2: Monitoring and Investigation
 
-##### Morning Review
+#### Morning Review
 - Checking tickets and new alerts generated overnight.
 
 #### Tools Used
@@ -46,7 +46,7 @@ The Triage and Threat Response Lab project aimed to monitor, investigate, and re
 
 ### Task 3: Incident Response
 
-##### Immediate Action after Identifyimg the Maliciouis IP address
+#### Immediate Action after Identifyimg the Maliciouis IP address
 - **Block** the IP on the firewall.
 - Analyze potential damage done and whether data was exfiltrated
 
