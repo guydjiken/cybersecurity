@@ -6,13 +6,11 @@
 This project demonstrates the investigation and resolution of a phishing incident involving a malicious file hash. It showcases my ability to follow a structured incident response process using a phishing playbook and flowchart to investigate and resolve security alerts in a SOC environment.
 
 ## Scenario
-[Brief Objective]
-
 As a level-one Security Operations Center (SOC) analyst, I responded to a phishing alert that involved a malicious file downloaded via an email attachment. The file’s SHA256 hash was previously verified as malicious. Using the organization's phishing playbook, I investigated and documented the incident in an alert ticket, following the prescribed steps to mitigate the threat.
 
 ## Project Structure
-- [Task 1](https://github.com/guydjiken/guydjiken.github.io/blob/main/cyber/Monitor%20and%20Investigate%20Alerts.py): This script simulates choosing the appropriate response based on the alert's type and severity.
-- [Task 2](https://github.com/guydjiken/guydjiken.github.io/blob/main/cyber/Investigate%20Malicious%20IP%20Address.py): This script simulates investigating an alert by evaluating the email sender details, message body, and file hash.
+- [Task 1](https://github.com/guydjiken/guydjiken.github.io/blob/main/cyber/Review Phishing.py): This script simulates choosing the appropriate response based on the alert's type and severity.
+- [Task 2](https://github.com/guydjiken/guydjiken.github.io/blob/main/cyber/Investigation Phishing.py): This script simulates investigating an alert by evaluating the email sender details, message body, and file hash.
 - [Task 3](https://github.com/guydjiken/guydjiken.github.io/blob/main/cyber/Respond%20to%20Compromised%20Hosts%20and%20Malicious%20Processes.py): This script simulates deciding whether to escalate or close the alert based on the investigation results.
 - [Task 4](https://github.com/guydjiken/guydjiken.github.io/blob/main/cyber/Generate%20Incident%20Report.py): This part provided detailed documentation and report the incident resolution.
 
