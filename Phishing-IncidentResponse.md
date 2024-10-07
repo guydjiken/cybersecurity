@@ -9,10 +9,10 @@ This project demonstrates the investigation and resolution of a phishing inciden
 As a level-one Security Operations Center (SOC) analyst, I responded to a phishing alert that involved a malicious file downloaded via an email attachment. The file’s SHA256 hash was previously verified as malicious. Using the organization's phishing playbook, I investigated and documented the incident in an alert ticket, following the prescribed steps to mitigate the threat.
 
 ## Project Structure
-- [Task 1](https://github.com/guydjiken/guydjiken.github.io/blob/main/cyber/Review Phishing.py): This script simulates choosing the appropriate response based on the alert's type and severity.
-- [Task 2](https://github.com/guydjiken/guydjiken.github.io/blob/main/cyber/Investigation Phishing.py): This script simulates investigating an alert by evaluating the email sender details, message body, and file hash.
-- [Task 3](https://github.com/guydjiken/guydjiken.github.io/blob/main/cyber/Respond%20to%20Compromised%20Hosts%20and%20Malicious%20Processes.py): This script simulates deciding whether to escalate or close the alert based on the investigation results.
-- [Task 4](https://github.com/guydjiken/guydjiken.github.io/blob/main/cyber/Generate%20Incident%20Report.py): This part provided detailed documentation and report the incident resolution.
+- [Task 1](https://github.com/guydjiken/guydjiken.github.io/blob/main/cyber/Review%20Phishing.py): This script simulates choosing the appropriate response based on the alert's type and severity.
+- [Task 2](https://github.com/guydjiken/guydjiken.github.io/blob/main/cyber/Investigation%20Phishing.py): This script simulates investigating an alert by evaluating the email sender details, message body, and file hash.
+- [Task 3](https://github.com/guydjiken/guydjiken.github.io/blob/main/cyber/Escalation%20phishing.py): This script simulates deciding whether to escalate or close the alert based on the investigation results.
+- [Task 4](https://github.com/guydjiken/guydjiken.github.io/blob/main/cyber/Report%20Phishing.py): This part provided detailed documentation and report the incident resolution.
 
 ### Task 1: Accessing and Reviewing the Phishing Playbook
 
@@ -62,7 +62,7 @@ As a level-one Security Operations Center (SOC) analyst, I responded to a phishi
 - **Forensic Analysis**: Investigated email attachments, verified malicious file hashes, and reviewed email content for inconsistencies.
 - **Documentation**: Updated and maintained accurate records in the alert ticketing system.
 
-## Playbook
+## [Playbook](https://github.com/guydjiken/guydjiken.github.io/blob/main/cyber/Playbook.yml)
 - **Steps**: The playbook is broken down into sequential steps, each representing a key part of the incident response process.
 - **Action**: Each step contains a set of actions that the SOC analyst or incident responder should take.
 - **Decisions**: After each step, decisions guide the workflow to the next step based on the outcome of the investigation.
