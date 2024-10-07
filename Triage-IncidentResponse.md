@@ -50,7 +50,7 @@ The Triage and Threat Response Lab project aimed to monitor, investigate, and re
 - **Block** the IP on the firewall.
 - Analyze potential damage done and whether data was exfiltrated
 
-#### message from the Attacker
+#### Message from the Attacker
 - After blocking the IP, the attacker left a message: **THM{UNTIL-WE-AGAIN}**.
 
 #### Remediation Steps
