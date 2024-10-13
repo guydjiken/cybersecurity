@@ -6,10 +6,10 @@
 In this project, you will utilize Google Security Operations (Chronicle), a cloud-native SIEM tool, to investigate a phishing-related security incident and answer specific investigative questions. Through this activity, you'll deepen your understanding of how SIEM tools like Chronicle collect, analyze, and report data from multiple sources. As a security analyst, you'll leverage these tools to identify, investigate, and respond to security threats effectively.
 
 ## Project Structure
-- [Task 1](https://github.com/guydjiken/guydjiken.github.io/blob/main/cyber/Monitor%20and%20Investigate%20Alerts.py): This part investigates the phishing email received by the employee.
-- [Task 2](https://github.com/guydjiken/guydjiken.github.io/blob/main/cyber/Investigate%20Malicious%20IP%20Address.py): Determining the scope of exposure across the organization.
-- [Task 3](https://github.com/guydjiken/guydjiken.github.io/blob/main/cyber/Respond%20to%20Compromised%20Hosts%20and%20Malicious%20Processes.py): Understanding the potential threat posed by the suspicious domain.
-- [Task 4](https://github.com/guydjiken/guydjiken.github.io/blob/main/cyber/Generate%20Incident%20Report.py): This part focuses on containing the threat and implementing remediation actions.
+- [Task 1](https://github.com/guydjiken/guydjiken.github.io/blob/main/cyber/Domain.py): This part investigates the phishing email received by the employee.
+- [Task 2](https://github.com/guydjiken/guydjiken.github.io/blob/main/cyber/Investigate.py): Determining the scope of exposure across the organization.
+- [Task 3](https://github.com/guydjiken/guydjiken.github.io/blob/main/cyber/assess.py): Understanding the potential threat posed by the suspicious domain.
+- [Task 4](https://github.com/guydjiken/guydjiken.github.io/blob/main/cyber/mitigate.py): This part focuses on containing the threat and implementing remediation actions.
 
 ### Task 1: Review and Analyze the Initial Alert
 
@@ -17,6 +17,7 @@ In this project, you will utilize Google Security Operations (Chronicle), a clou
 - Review the alert to understand the nature of the phishing email.
 - Identify and verify the suspicious domain **signin.office365x24.com**.
 - Document initial findings, including email details, sender information, and any related Indicators Of Compromise (**IOCs**).
+[Query](https://github.com/guydjiken/guydjiken.github.io/blob/main/cyber/query.py)
 
 #### Technical Skills
 - Familiarity with email security tools like **Microsoft Defender for Office 365**.
