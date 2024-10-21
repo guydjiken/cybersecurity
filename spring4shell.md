@@ -9,10 +9,10 @@ The goal of this project is to simulate the role of an Information Security Anal
 You are an Information Security Analyst working in the Security Operations Centre (SOC) for a large enterprise, Telstra, that provides critical communication services. One of your daily responsibilities is to monitor alerts and respond to incidents that could affect the infrastructure. Today, you receive an urgent alert about an ongoing malware attack exploiting the Spring4Shell vulnerability.
 
 ## Project Structure
-- [Task 1](https://github.com/guydjiken/guydjiken.github.io/blob/main/cyber/Review%20Phishing.py): This task allows to learn how to quickly and effectively respond to an ongoing malware attack, minimizing impact.
-- [Task 2](https://github.com/guydjiken/guydjiken.github.io/blob/main/cyber/Investigation%20Phishing.py): This script conducted in-depth analysis of the malware's behavior to understand its scope and origins.
-- [Task 3](https://github.com/guydjiken/guydjiken.github.io/blob/main/cyber/Escalation%20phishing.py): This script implemented technical solutions to mitigate and block the malware from further exploiting vulnerabilities.
-- [Task 4](https://github.com/guydjiken/guydjiken.github.io/blob/main/cyber/Report%20Phishing.py): This part presented a detailed postmortem analysis, identifying the root cause and outlining steps for future prevention.
+- [Task 1](https://drive.google.com/drive/folders/1TnQOnsMr9GXWdRxU_Js4u2uox5HTLPPQ): This task allows to learn how to quickly and effectively respond to an ongoing malware attack, minimizing impact.
+- [Task 2](https://drive.google.com/drive/folders/1TnQOnsMr9GXWdRxU_Js4u2uox5HTLPPQ): This script conducted in-depth analysis of the malware's behavior to understand its scope and origins.
+- [Task 3](https://drive.google.com/drive/folders/1TnQOnsMr9GXWdRxU_Js4u2uox5HTLPPQ): This script implemented technical solutions to mitigate and block the malware from further exploiting vulnerabilities.
+- [Task 4](https://drive.google.com/drive/folders/1TnQOnsMr9GXWdRxU_Js4u2uox5HTLPPQ): This part presented a detailed postmortem analysis, identifying the root cause and outlining steps for future prevention.
 
 ### Task 1: Responding to a Malware Attack
 
